@@ -1,0 +1,701 @@
+level,gen,Efetivo,Comissionado,Terceirizado,Temporário,total,uf,mes,ano,var
+Psicólogos/as,Total,9,0,1,0,10,ac,dez,2014,psico
+Médicos/as - psiquiatras,Total,2,0,0,0,2,ac,dez,2014,psico
+Psicólogos/as,Total,8,0,1,0,9,ac,jun,2014,psico
+Médicos/as - psiquiatras,Total,1,0,1,0,2,ac,jun,2014,psico
+Psicólogos/as,Total,7,0,1,0,8,ac,dez,2015,psico
+Médicos/as - psiquiatras,Total,1,0,1,1,3,ac,dez,2015,psico
+Psicólogos/as,Total,7,0,0,0,7,ac,dez,2016,psico
+Médicos/as - psiquiatras,Total,4,0,0,2,6,ac,dez,2016,psico
+Psicólogos/as,Total,7,0,1,0,8,ac,jun,2016,psico
+Médicos/as - psiquiatras,Total,1,0,1,1,3,ac,jun,2016,psico
+Psicólogos/as,Total,7,0,0,2,9,ac,dez,2017,psico
+Médicos/as - psiquiatras,Total,3,0,0,1,4,ac,dez,2017,psico
+Psicólogos/as,Total,7,0,0,0,7,ac,jun,2017,psico
+Médicos/as - psiquiatras,Total,2,0,0,0,2,ac,jun,2017,psico
+Psicólogos/as,Total,5,0,1,1,7,ac,dez,2018,psico
+Médicos/as - psiquiatras,Total,3,0,0,1,4,ac,dez,2018,psico
+Psicólogos/as,Total,8,0,1,1,10,ac,jun,2018,psico
+Médicos/as - psiquiatras,Total,6,0,0,0,6,ac,jun,2018,psico
+Psicólogos/as,Total,5,0,0,2,7,ac,dez,2019,psico
+Médicos/as - psiquiatras,Total,4,0,0,0,4,ac,dez,2019,psico
+Psicólogos/as,Total,7,0,0,2,9,ac,jun,2019,psico
+Médicos/as - psiquiatras,Total,4,0,0,0,4,ac,jun,2019,psico
+Psicólogos/as,Total,3,0,0,2,5,ac,dez,2020,psico
+Médicos/as - psiquiatras,Total,3,0,0,0,3,ac,dez,2020,psico
+Psicólogos/as,Total,6,0,0,2,8,ac,jun,2020,psico
+Médicos/as - psiquiatras,Total,5,0,0,0,5,ac,jun,2020,psico
+Psicólogos/as,Total,2,0,3,9,14,al,dez,2014,psico
+Médicos/as - psiquiatras,Total,1,1,1,1,4,al,dez,2014,psico
+Psicólogos/as,Total,1,0,3,7,11,al,jun,2014,psico
+Médicos/as - psiquiatras,Total,1,1,1,1,4,al,jun,2014,psico
+Psicólogos/as,Total,1,0,3,11,15,al,dez,2015,psico
+Médicos/as - psiquiatras,Total,1,1,1,3,6,al,dez,2015,psico
+Psicólogos/as,Total,1,0,3,10,14,al,dez,2016,psico
+Médicos/as - psiquiatras,Total,1,1,1,2,5,al,dez,2016,psico
+Psicólogos/as,Total,1,0,3,11,15,al,jun,2016,psico
+Médicos/as - psiquiatras,Total,1,1,1,3,6,al,jun,2016,psico
+Psicólogos/as,Total,0,0,3,9,12,al,dez,2017,psico
+Médicos/as - psiquiatras,Total,1,1,1,2,5,al,dez,2017,psico
+Psicólogos/as,Total,1,0,2,13,16,al,jun,2017,psico
+Médicos/as - psiquiatras,Total,1,1,1,0,3,al,jun,2017,psico
+Psicólogos/as,Total,1,0,5,9,15,al,dez,2018,psico
+Médicos/as - psiquiatras,Total,1,0,1,0,2,al,dez,2018,psico
+Psicólogos/as,Total,1,0,3,14,18,al,jun,2018,psico
+Médicos/as - psiquiatras,Total,1,1,1,2,5,al,jun,2018,psico
+Psicólogos/as,Total,1,0,3,10,14,al,dez,2019,psico
+Médicos/as - psiquiatras,Total,1,0,1,3,5,al,dez,2019,psico
+Psicólogos/as,Total,1,0,3,12,16,al,jun,2019,psico
+Médicos/as - psiquiatras,Total,1,0,1,3,5,al,jun,2019,psico
+Psicólogos/as,Total,1,0,3,12,16,al,dez,2020,psico
+Médicos/as - psiquiatras,Total,1,0,1,2,4,al,dez,2020,psico
+Psicólogos/as,Total,1,0,3,11,15,al,jun,2020,psico
+Médicos/as - psiquiatras,Total,1,0,1,3,5,al,jun,2020,psico
+Psicólogos/as,Total,1,1,11,0,13,am,dez,2014,psico
+Médicos/as - psiquiatras,Total,0,1,5,0,6,am,dez,2014,psico
+Psicólogos/as,Total,3,1,11,0,15,am,jun,2014,psico
+Médicos/as - psiquiatras,Total,1,1,4,0,6,am,jun,2014,psico
+Psicólogos/as,Total,1,3,9,2,15,am,dez,2015,psico
+Médicos/as - psiquiatras,Total,1,0,6,2,9,am,dez,2015,psico
+Psicólogos/as,Total,2,1,10,0,13,am,dez,2016,psico
+Médicos/as - psiquiatras,Total,1,1,5,1,8,am,dez,2016,psico
+Psicólogos/as,Total,1,3,9,2,15,am,jun,2016,psico
+Médicos/as - psiquiatras,Total,1,0,6,2,9,am,jun,2016,psico
+Psicólogos/as,Total,1,0,14,1,16,am,dez,2017,psico
+Médicos/as - psiquiatras,Total,1,0,7,0,8,am,dez,2017,psico
+Psicólogos/as,Total,1,0,15,0,16,am,jun,2017,psico
+Médicos/as - psiquiatras,Total,1,0,6,0,7,am,jun,2017,psico
+Psicólogos/as,Total,1,0,18,0,19,am,dez,2018,psico
+Médicos/as - psiquiatras,Total,0,0,9,0,9,am,dez,2018,psico
+Psicólogos/as,Total,1,0,18,1,20,am,jun,2018,psico
+Médicos/as - psiquiatras,Total,1,0,9,0,10,am,jun,2018,psico
+Psicólogos/as,Total,1,0,18,1,20,am,dez,2019,psico
+Médicos/as - psiquiatras,Total,1,1,8,0,10,am,dez,2019,psico
+Psicólogos/as,Total,0,0,16,2,18,am,jun,2019,psico
+Médicos/as - psiquiatras,Total,0,0,9,1,10,am,jun,2019,psico
+Psicólogos/as,Total,0,2,22,1,25,am,dez,2020,psico
+Médicos/as - psiquiatras,Total,0,2,12,0,14,am,dez,2020,psico
+Psicólogos/as,Total,0,2,16,2,20,am,jun,2020,psico
+Médicos/as - psiquiatras,Total,0,2,7,0,9,am,jun,2020,psico
+Psicólogos/as,Total,7,0,0,0,7,ap,dez,2014,psico
+Médicos/as - psiquiatras,Total,2,0,0,0,2,ap,dez,2014,psico
+Psicólogos/as,Total,17,6,0,0,23,ap,jun,2014,psico
+Médicos/as - psiquiatras,Total,0,1,1,0,2,ap,jun,2014,psico
+Psicólogos/as,Total,7,4,0,0,11,ap,dez,2015,psico
+Médicos/as - psiquiatras,Total,0,2,0,0,2,ap,dez,2015,psico
+Psicólogos/as,Total,11,0,0,6,17,ap,dez,2016,psico
+Médicos/as - psiquiatras,Total,0,0,0,2,2,ap,dez,2016,psico
+Psicólogos/as,Total,7,4,0,0,11,ap,jun,2016,psico
+Médicos/as - psiquiatras,Total,0,2,0,0,2,ap,jun,2016,psico
+Psicólogos/as,Total,3,0,0,0,3,ap,dez,2017,psico
+Médicos/as - psiquiatras,Total,0,0,0,1,1,ap,dez,2017,psico
+Psicólogos/as,Total,11,0,0,5,16,ap,jun,2017,psico
+Médicos/as - psiquiatras,Total,0,0,0,0,0,ap,jun,2017,psico
+Psicólogos/as,Total,4,0,0,0,4,ap,dez,2018,psico
+Médicos/as - psiquiatras,Total,0,0,0,1,1,ap,dez,2018,psico
+Psicólogos/as,Total,4,0,0,0,4,ap,jun,2018,psico
+Médicos/as - psiquiatras,Total,0,0,0,0,0,ap,jun,2018,psico
+Psicólogos/as,Total,1,0,0,1,2,ap,dez,2019,psico
+Médicos/as - psiquiatras,Total,1,0,0,0,1,ap,dez,2019,psico
+Psicólogos/as,Total,0,0,0,1,1,ap,jun,2019,psico
+Médicos/as - psiquiatras,Total,0,0,0,0,0,ap,jun,2019,psico
+Psicólogos/as,Total,3,0,1,1,5,ap,dez,2020,psico
+Médicos/as - psiquiatras,Total,1,0,0,0,1,ap,dez,2020,psico
+Psicólogos/as,Total,3,0,0,1,4,ap,jun,2020,psico
+Médicos/as - psiquiatras,Total,1,0,0,0,1,ap,jun,2020,psico
+Psicólogos/as,Total,18,3,10,25,56,ba,dez,2014,psico
+Médicos/as - psiquiatras,Total,12,1,5,6,24,ba,dez,2014,psico
+Psicólogos/as,Total,15,4,10,27,56,ba,jun,2014,psico
+Médicos/as - psiquiatras,Total,9,1,6,9,25,ba,jun,2014,psico
+Psicólogos/as,Total,10,1,8,32,51,ba,dez,2015,psico
+Médicos/as - psiquiatras,Total,7,0,4,4,15,ba,dez,2015,psico
+Psicólogos/as,Total,10,3,17,19,49,ba,dez,2016,psico
+Médicos/as - psiquiatras,Total,8,0,5,11,24,ba,dez,2016,psico
+Psicólogos/as,Total,10,1,8,32,51,ba,jun,2016,psico
+Médicos/as - psiquiatras,Total,7,0,4,4,15,ba,jun,2016,psico
+Psicólogos/as,Total,18,1,29,7,55,ba,dez,2017,psico
+Médicos/as - psiquiatras,Total,11,0,23,0,34,ba,dez,2017,psico
+Psicólogos/as,Total,18,1,10,14,43,ba,jun,2017,psico
+Médicos/as - psiquiatras,Total,11,0,4,5,20,ba,jun,2017,psico
+Psicólogos/as,Total,8,0,50,4,62,ba,dez,2018,psico
+Médicos/as - psiquiatras,Total,7,0,30,0,37,ba,dez,2018,psico
+Psicólogos/as,Total,8,0,51,6,65,ba,jun,2018,psico
+Médicos/as - psiquiatras,Total,7,0,27,0,34,ba,jun,2018,psico
+Psicólogos/as,Total,8,2,54,0,64,ba,dez,2019,psico
+Médicos/as - psiquiatras,Total,3,0,15,1,19,ba,dez,2019,psico
+Psicólogos/as,Total,9,0,49,3,61,ba,jun,2019,psico
+Médicos/as - psiquiatras,Total,4,0,16,0,20,ba,jun,2019,psico
+Psicólogos/as,Total,8,0,63,0,71,ba,dez,2020,psico
+Médicos/as - psiquiatras,Total,6,0,33,0,39,ba,dez,2020,psico
+Psicólogos/as,Total,8,0,53,4,65,ba,jun,2020,psico
+Médicos/as - psiquiatras,Total,6,0,32,0,38,ba,jun,2020,psico
+Psicólogos/as,Total,0,0,13,0,13,ce,dez,2014,psico
+Médicos/as - psiquiatras,Total,2,0,3,0,5,ce,dez,2014,psico
+Psicólogos/as,Total,2,1,8,0,11,ce,jun,2014,psico
+Médicos/as - psiquiatras,Total,2,0,6,0,8,ce,jun,2014,psico
+Psicólogos/as,Total,1,0,15,0,16,ce,dez,2015,psico
+Médicos/as - psiquiatras,Total,1,0,5,0,6,ce,dez,2015,psico
+Psicólogos/as,Total,1,0,17,0,18,ce,dez,2016,psico
+Médicos/as - psiquiatras,Total,1,0,5,0,6,ce,dez,2016,psico
+Psicólogos/as,Total,1,0,15,0,16,ce,jun,2016,psico
+Médicos/as - psiquiatras,Total,1,0,5,0,6,ce,jun,2016,psico
+Psicólogos/as,Total,0,0,15,0,15,ce,dez,2017,psico
+Médicos/as - psiquiatras,Total,2,0,4,0,6,ce,dez,2017,psico
+Psicólogos/as,Total,0,0,14,0,14,ce,jun,2017,psico
+Médicos/as - psiquiatras,Total,2,0,2,0,4,ce,jun,2017,psico
+Psicólogos/as,Total,1,0,16,1,18,ce,dez,2018,psico
+Médicos/as - psiquiatras,Total,2,0,2,0,4,ce,dez,2018,psico
+Psicólogos/as,Total,2,0,15,0,17,ce,jun,2018,psico
+Médicos/as - psiquiatras,Total,2,0,2,0,4,ce,jun,2018,psico
+Psicólogos/as,Total,0,0,17,0,17,ce,dez,2019,psico
+Médicos/as - psiquiatras,Total,1,0,7,0,8,ce,dez,2019,psico
+Psicólogos/as,Total,0,0,17,0,17,ce,jun,2019,psico
+Médicos/as - psiquiatras,Total,0,0,7,0,7,ce,jun,2019,psico
+Psicólogos/as,Total,1,1,17,0,19,ce,dez,2020,psico
+Médicos/as - psiquiatras,Total,0,0,4,0,4,ce,dez,2020,psico
+Psicólogos/as,Total,0,0,19,0,19,ce,jun,2020,psico
+Médicos/as - psiquiatras,Total,0,0,2,0,2,ce,jun,2020,psico
+Psicólogos/as,Total,15,0,0,0,15,df,dez,2014,psico
+Médicos/as - psiquiatras,Total,5,0,0,0,5,df,dez,2014,psico
+Psicólogos/as,Total,16,1,0,0,17,df,jun,2014,psico
+Médicos/as - psiquiatras,Total,3,0,0,0,3,df,jun,2014,psico
+Psicólogos/as,Total,15,0,0,0,15,df,dez,2015,psico
+Médicos/as - psiquiatras,Total,3,0,0,0,3,df,dez,2015,psico
+Psicólogos/as,Total,15,0,0,0,15,df,dez,2016,psico
+Médicos/as - psiquiatras,Total,4,0,0,0,4,df,dez,2016,psico
+Psicólogos/as,Total,15,0,0,0,15,df,jun,2016,psico
+Médicos/as - psiquiatras,Total,3,0,0,0,3,df,jun,2016,psico
+Psicólogos/as,Total,16,0,0,0,16,df,dez,2017,psico
+Médicos/as - psiquiatras,Total,5,0,0,0,5,df,dez,2017,psico
+Psicólogos/as,Total,16,0,0,0,16,df,jun,2017,psico
+Médicos/as - psiquiatras,Total,5,0,0,0,5,df,jun,2017,psico
+Psicólogos/as,Total,14,0,0,0,14,df,dez,2018,psico
+Médicos/as - psiquiatras,Total,5,0,0,0,5,df,dez,2018,psico
+Psicólogos/as,Total,14,0,0,0,14,df,jun,2018,psico
+Médicos/as - psiquiatras,Total,3,0,0,0,3,df,jun,2018,psico
+Psicólogos/as,Total,15,0,0,0,15,df,dez,2019,psico
+Médicos/as - psiquiatras,Total,5,0,0,0,5,df,dez,2019,psico
+Psicólogos/as,Total,12,0,0,0,12,df,jun,2019,psico
+Médicos/as - psiquiatras,Total,5,0,0,0,5,df,jun,2019,psico
+Psicólogos/as,Total,14,0,0,0,14,df,dez,2020,psico
+Médicos/as - psiquiatras,Total,5,0,0,0,5,df,dez,2020,psico
+Psicólogos/as,Total,13,0,0,0,13,df,jun,2020,psico
+Médicos/as - psiquiatras,Total,4,0,0,0,4,df,jun,2020,psico
+Psicólogos/as,Total,2,35,22,0,59,es,dez,2014,psico
+Médicos/as - psiquiatras,Total,5,0,3,0,8,es,dez,2014,psico
+Psicólogos/as,Total,1,33,25,0,59,es,jun,2014,psico
+Médicos/as - psiquiatras,Total,5,0,5,1,11,es,jun,2014,psico
+Psicólogos/as,Total,0,31,13,0,44,es,dez,2015,psico
+Médicos/as - psiquiatras,Total,4,0,2,0,6,es,dez,2015,psico
+Psicólogos/as,Total,2,32,18,0,52,es,dez,2016,psico
+Médicos/as - psiquiatras,Total,4,0,3,0,7,es,dez,2016,psico
+Psicólogos/as,Total,3,31,11,0,45,es,jun,2016,psico
+Médicos/as - psiquiatras,Total,4,0,0,0,4,es,jun,2016,psico
+Psicólogos/as,Total,2,32,22,0,56,es,dez,2017,psico
+Médicos/as - psiquiatras,Total,2,0,4,1,7,es,dez,2017,psico
+Psicólogos/as,Total,1,29,9,0,39,es,jun,2017,psico
+Médicos/as - psiquiatras,Total,3,0,0,0,3,es,jun,2017,psico
+Psicólogos/as,Total,0,31,40,0,71,es,dez,2018,psico
+Médicos/as - psiquiatras,Total,2,0,14,0,16,es,dez,2018,psico
+Psicólogos/as,Total,0,30,37,0,67,es,jun,2018,psico
+Médicos/as - psiquiatras,Total,0,0,8,1,9,es,jun,2018,psico
+Psicólogos/as,Total,0,32,34,0,66,es,dez,2019,psico
+Médicos/as - psiquiatras,Total,2,0,14,1,17,es,dez,2019,psico
+Psicólogos/as,Total,0,27,35,0,62,es,jun,2019,psico
+Médicos/as - psiquiatras,Total,2,0,16,0,18,es,jun,2019,psico
+Psicólogos/as,Total,0,26,34,0,60,es,dez,2020,psico
+Médicos/as - psiquiatras,Total,3,0,18,1,22,es,dez,2020,psico
+Psicólogos/as,Total,0,29,34,0,63,es,jun,2020,psico
+Médicos/as - psiquiatras,Total,2,0,18,1,21,es,jun,2020,psico
+Psicólogos/as,Total,7,0,0,13,20,go,dez,2014,psico
+Médicos/as - psiquiatras,Total,2,0,0,1,3,go,dez,2014,psico
+Psicólogos/as,Total,2,1,0,15,18,go,jun,2014,psico
+Médicos/as - psiquiatras,Total,0,1,0,0,1,go,jun,2014,psico
+Psicólogos/as,Total,4,0,1,14,19,go,dez,2015,psico
+Médicos/as - psiquiatras,Total,0,0,0,2,2,go,dez,2015,psico
+Psicólogos/as,Total,5,0,1,16,22,go,dez,2016,psico
+Médicos/as - psiquiatras,Total,1,0,0,4,5,go,dez,2016,psico
+Psicólogos/as,Total,4,0,1,14,19,go,jun,2016,psico
+Médicos/as - psiquiatras,Total,0,0,0,2,2,go,jun,2016,psico
+Psicólogos/as,Total,7,3,2,11,23,go,dez,2017,psico
+Médicos/as - psiquiatras,Total,1,0,0,3,4,go,dez,2017,psico
+Psicólogos/as,Total,3,0,2,15,20,go,jun,2017,psico
+Médicos/as - psiquiatras,Total,1,0,1,1,3,go,jun,2017,psico
+Psicólogos/as,Total,10,7,8,8,33,go,dez,2018,psico
+Médicos/as - psiquiatras,Total,2,0,0,3,5,go,dez,2018,psico
+Psicólogos/as,Total,11,5,4,9,29,go,jun,2018,psico
+Médicos/as - psiquiatras,Total,3,0,0,2,5,go,jun,2018,psico
+Psicólogos/as,Total,10,8,5,11,34,go,dez,2019,psico
+Médicos/as - psiquiatras,Total,6,0,1,3,10,go,dez,2019,psico
+Psicólogos/as,Total,13,9,7,9,38,go,jun,2019,psico
+Médicos/as - psiquiatras,Total,1,0,2,2,5,go,jun,2019,psico
+Psicólogos/as,Total,4,11,16,5,36,go,dez,2020,psico
+Médicos/as - psiquiatras,Total,1,3,5,3,12,go,dez,2020,psico
+Psicólogos/as,Total,7,10,8,12,37,go,jun,2020,psico
+Médicos/as - psiquiatras,Total,3,2,3,3,11,go,jun,2020,psico
+Psicólogos/as,Total,2,0,12,2,16,ma,dez,2014,psico
+Médicos/as - psiquiatras,Total,1,0,0,0,1,ma,dez,2014,psico
+Psicólogos/as,Total,4,1,10,1,16,ma,jun,2014,psico
+Médicos/as - psiquiatras,Total,1,0,1,0,2,ma,jun,2014,psico
+Psicólogos/as,Total,7,0,8,23,38,ma,dez,2015,psico
+Médicos/as - psiquiatras,Total,0,0,0,0,0,ma,dez,2015,psico
+Psicólogos/as,Total,4,0,0,41,45,ma,dez,2016,psico
+Médicos/as - psiquiatras,Total,0,0,1,0,1,ma,dez,2016,psico
+Psicólogos/as,Total,7,0,8,23,38,ma,jun,2016,psico
+Médicos/as - psiquiatras,Total,0,0,0,0,0,ma,jun,2016,psico
+Psicólogos/as,Total,4,0,0,46,50,ma,dez,2017,psico
+Médicos/as - psiquiatras,Total,0,0,0,1,1,ma,dez,2017,psico
+Psicólogos/as,Total,4,0,0,41,45,ma,jun,2017,psico
+Médicos/as - psiquiatras,Total,0,0,1,0,1,ma,jun,2017,psico
+Psicólogos/as,Total,5,0,0,51,56,ma,dez,2018,psico
+Médicos/as - psiquiatras,Total,0,0,0,1,1,ma,dez,2018,psico
+Psicólogos/as,Total,4,0,0,46,50,ma,jun,2018,psico
+Médicos/as - psiquiatras,Total,0,0,0,1,1,ma,jun,2018,psico
+Psicólogos/as,Total,0,0,1,42,43,ma,dez,2019,psico
+Médicos/as - psiquiatras,Total,0,0,0,1,1,ma,dez,2019,psico
+Psicólogos/as,Total,4,0,0,49,53,ma,jun,2019,psico
+Médicos/as - psiquiatras,Total,0,0,0,1,1,ma,jun,2019,psico
+Psicólogos/as,Total,3,1,0,47,51,ma,dez,2020,psico
+Médicos/as - psiquiatras,Total,0,0,0,1,1,ma,dez,2020,psico
+Psicólogos/as,Total,0,0,0,41,41,ma,jun,2020,psico
+Médicos/as - psiquiatras,Total,0,0,0,1,1,ma,jun,2020,psico
+Psicólogos/as,Total,138,6,20,69,233,mg,dez,2014,psico
+Médicos/as - psiquiatras,Total,24,1,8,2,35,mg,dez,2014,psico
+Psicólogos/as,Total,64,1,18,107,190,mg,jun,2014,psico
+Médicos/as - psiquiatras,Total,16,0,5,7,28,mg,jun,2014,psico
+Psicólogos/as,Total,147,5,11,65,228,mg,dez,2015,psico
+Médicos/as - psiquiatras,Total,23,0,2,5,30,mg,dez,2015,psico
+Psicólogos/as,Total,246,2,19,67,334,mg,dez,2016,psico
+Médicos/as - psiquiatras,Total,23,0,2,7,32,mg,dez,2016,psico
+Psicólogos/as,Total,145,5,11,65,226,mg,jun,2016,psico
+Médicos/as - psiquiatras,Total,23,0,2,5,30,mg,jun,2016,psico
+Psicólogos/as,Total,152,4,22,41,219,mg,dez,2017,psico
+Médicos/as - psiquiatras,Total,24,0,4,4,32,mg,dez,2017,psico
+Psicólogos/as,Total,143,2,22,61,228,mg,jun,2017,psico
+Médicos/as - psiquiatras,Total,26,1,5,5,37,mg,jun,2017,psico
+Psicólogos/as,Total,144,5,17,43,209,mg,dez,2018,psico
+Médicos/as - psiquiatras,Total,25,1,2,5,33,mg,dez,2018,psico
+Psicólogos/as,Total,145,2,15,47,209,mg,jun,2018,psico
+Médicos/as - psiquiatras,Total,23,0,2,6,31,mg,jun,2018,psico
+Psicólogos/as,Total,126,6,33,26,191,mg,dez,2019,psico
+Médicos/as - psiquiatras,Total,16,0,9,5,30,mg,dez,2019,psico
+Psicólogos/as,Total,139,1,29,37,206,mg,jun,2019,psico
+Médicos/as - psiquiatras,Total,19,0,4,6,29,mg,jun,2019,psico
+Psicólogos/as,Total,128,1,37,24,190,mg,dez,2020,psico
+Médicos/as - psiquiatras,Total,16,0,11,5,32,mg,dez,2020,psico
+Psicólogos/as,Total,132,1,39,21,193,mg,jun,2020,psico
+Médicos/as - psiquiatras,Total,16,0,10,5,31,mg,jun,2020,psico
+Psicólogos/as,Total,31,0,0,0,31,ms,dez,2014,psico
+Médicos/as - psiquiatras,Total,8,0,0,0,8,ms,dez,2014,psico
+Psicólogos/as,Total,34,0,1,0,35,ms,jun,2014,psico
+Médicos/as - psiquiatras,Total,7,0,1,0,8,ms,jun,2014,psico
+Psicólogos/as,Total,31,0,0,0,31,ms,dez,2015,psico
+Médicos/as - psiquiatras,Total,3,0,0,0,3,ms,dez,2015,psico
+Psicólogos/as,Total,29,0,0,0,29,ms,dez,2016,psico
+Médicos/as - psiquiatras,Total,4,0,1,1,6,ms,dez,2016,psico
+Psicólogos/as,Total,31,0,0,0,31,ms,jun,2016,psico
+Médicos/as - psiquiatras,Total,3,0,0,0,3,ms,jun,2016,psico
+Psicólogos/as,Total,32,0,0,0,32,ms,dez,2017,psico
+Médicos/as - psiquiatras,Total,5,0,2,0,7,ms,dez,2017,psico
+Psicólogos/as,Total,31,0,0,0,31,ms,jun,2017,psico
+Médicos/as - psiquiatras,Total,6,0,0,0,6,ms,jun,2017,psico
+Psicólogos/as,Total,31,0,0,0,31,ms,dez,2018,psico
+Médicos/as - psiquiatras,Total,5,0,1,0,6,ms,dez,2018,psico
+Psicólogos/as,Total,29,0,0,0,29,ms,jun,2018,psico
+Médicos/as - psiquiatras,Total,5,0,2,0,7,ms,jun,2018,psico
+Psicólogos/as,Total,36,0,0,0,36,ms,dez,2019,psico
+Médicos/as - psiquiatras,Total,4,0,1,1,6,ms,dez,2019,psico
+Psicólogos/as,Total,32,0,0,0,32,ms,jun,2019,psico
+Médicos/as - psiquiatras,Total,3,1,1,0,5,ms,jun,2019,psico
+Psicólogos/as,Total,40,0,2,0,42,ms,dez,2020,psico
+Médicos/as - psiquiatras,Total,3,0,1,0,4,ms,dez,2020,psico
+Psicólogos/as,Total,31,0,0,0,31,ms,jun,2020,psico
+Médicos/as - psiquiatras,Total,5,0,0,1,6,ms,jun,2020,psico
+Psicólogos/as,Total,27,0,1,0,28,mt,dez,2014,psico
+Médicos/as - psiquiatras,Total,1,0,0,0,1,mt,dez,2014,psico
+Psicólogos/as,Total,23,0,0,0,23,mt,jun,2014,psico
+Médicos/as - psiquiatras,Total,2,0,0,0,2,mt,jun,2014,psico
+Psicólogos/as,Total,28,0,0,0,28,mt,dez,2015,psico
+Médicos/as - psiquiatras,Total,0,0,0,0,0,mt,dez,2015,psico
+Psicólogos/as,Total,26,0,0,0,26,mt,dez,2016,psico
+Médicos/as - psiquiatras,Total,1,0,0,1,2,mt,dez,2016,psico
+Psicólogos/as,Total,28,0,0,0,28,mt,jun,2016,psico
+Médicos/as - psiquiatras,Total,0,0,0,0,0,mt,jun,2016,psico
+Psicólogos/as,Total,26,0,0,0,26,mt,dez,2017,psico
+Médicos/as - psiquiatras,Total,0,0,0,0,0,mt,dez,2017,psico
+Psicólogos/as,Total,23,0,0,1,24,mt,jun,2017,psico
+Médicos/as - psiquiatras,Total,1,0,0,0,1,mt,jun,2017,psico
+Psicólogos/as,Total,28,0,0,0,28,mt,dez,2018,psico
+Médicos/as - psiquiatras,Total,0,0,0,0,0,mt,dez,2018,psico
+Psicólogos/as,Total,26,0,0,0,26,mt,jun,2018,psico
+Médicos/as - psiquiatras,Total,0,0,0,0,0,mt,jun,2018,psico
+Psicólogos/as,Total,26,0,0,0,26,mt,dez,2019,psico
+Médicos/as - psiquiatras,Total,0,0,0,0,0,mt,dez,2019,psico
+Psicólogos/as,Total,28,0,0,0,28,mt,jun,2019,psico
+Médicos/as - psiquiatras,Total,0,0,0,0,0,mt,jun,2019,psico
+Psicólogos/as,Total,27,0,2,0,29,mt,dez,2020,psico
+Médicos/as - psiquiatras,Total,2,0,0,0,2,mt,dez,2020,psico
+Psicólogos/as,Total,26,0,0,0,26,mt,jun,2020,psico
+Médicos/as - psiquiatras,Total,0,0,1,0,1,mt,jun,2020,psico
+Psicólogos/as,Total,15,0,0,35,50,pa,dez,2014,psico
+Médicos/as - psiquiatras,Total,0,0,0,1,1,pa,dez,2014,psico
+Psicólogos/as,Total,21,0,2,27,50,pa,jun,2014,psico
+Médicos/as - psiquiatras,Total,0,0,0,1,1,pa,jun,2014,psico
+Psicólogos/as,Total,10,0,0,31,41,pa,dez,2015,psico
+Médicos/as - psiquiatras,Total,0,0,0,0,0,pa,dez,2015,psico
+Psicólogos/as,Total,22,1,0,25,48,pa,dez,2016,psico
+Médicos/as - psiquiatras,Total,0,0,0,1,1,pa,dez,2016,psico
+Psicólogos/as,Total,10,0,0,31,41,pa,jun,2016,psico
+Médicos/as - psiquiatras,Total,0,0,0,0,0,pa,jun,2016,psico
+Psicólogos/as,Total,17,1,0,25,43,pa,dez,2017,psico
+Médicos/as - psiquiatras,Total,0,0,0,2,2,pa,dez,2017,psico
+Psicólogos/as,Total,15,0,0,33,48,pa,jun,2017,psico
+Médicos/as - psiquiatras,Total,0,0,1,1,2,pa,jun,2017,psico
+Psicólogos/as,Total,20,1,0,41,62,pa,dez,2018,psico
+Médicos/as - psiquiatras,Total,0,0,0,1,1,pa,dez,2018,psico
+Psicólogos/as,Total,21,0,0,35,56,pa,jun,2018,psico
+Médicos/as - psiquiatras,Total,0,0,0,2,2,pa,jun,2018,psico
+Psicólogos/as,Total,50,0,3,12,65,pa,dez,2019,psico
+Médicos/as - psiquiatras,Total,0,0,0,0,0,pa,dez,2019,psico
+Psicólogos/as,Total,18,3,2,36,59,pa,jun,2019,psico
+Médicos/as - psiquiatras,Total,0,0,0,0,0,pa,jun,2019,psico
+Psicólogos/as,Total,52,0,0,7,59,pa,dez,2020,psico
+Médicos/as - psiquiatras,Total,0,0,0,0,0,pa,dez,2020,psico
+Psicólogos/as,Total,50,0,0,7,57,pa,jun,2020,psico
+Médicos/as - psiquiatras,Total,0,0,0,0,0,pa,jun,2020,psico
+Psicólogos/as,Total,9,1,1,6,17,pb,dez,2014,psico
+Médicos/as - psiquiatras,Total,4,0,0,0,4,pb,dez,2014,psico
+Psicólogos/as,Total,16,3,0,3,22,pb,jun,2014,psico
+Médicos/as - psiquiatras,Total,1,0,2,0,3,pb,jun,2014,psico
+Psicólogos/as,Total,5,4,0,5,14,pb,dez,2015,psico
+Médicos/as - psiquiatras,Total,0,0,0,0,0,pb,dez,2015,psico
+Psicólogos/as,Total,10,0,0,5,15,pb,dez,2016,psico
+Médicos/as - psiquiatras,Total,1,0,0,3,4,pb,dez,2016,psico
+Psicólogos/as,Total,5,4,0,5,14,pb,jun,2016,psico
+Médicos/as - psiquiatras,Total,0,0,0,0,0,pb,jun,2016,psico
+Psicólogos/as,Total,13,0,1,4,18,pb,dez,2017,psico
+Médicos/as - psiquiatras,Total,0,0,0,3,3,pb,dez,2017,psico
+Psicólogos/as,Total,14,1,0,2,17,pb,jun,2017,psico
+Médicos/as - psiquiatras,Total,1,0,0,4,5,pb,jun,2017,psico
+Psicólogos/as,Total,8,3,0,7,18,pb,dez,2018,psico
+Médicos/as - psiquiatras,Total,0,0,0,3,3,pb,dez,2018,psico
+Psicólogos/as,Total,7,3,0,7,17,pb,jun,2018,psico
+Médicos/as - psiquiatras,Total,0,0,0,3,3,pb,jun,2018,psico
+Psicólogos/as,Total,6,2,0,7,15,pb,dez,2019,psico
+Médicos/as - psiquiatras,Total,0,0,0,3,3,pb,dez,2019,psico
+Psicólogos/as,Total,7,1,0,6,14,pb,jun,2019,psico
+Médicos/as - psiquiatras,Total,0,0,0,3,3,pb,jun,2019,psico
+Psicólogos/as,Total,9,2,2,5,18,pb,dez,2020,psico
+Médicos/as - psiquiatras,Total,3,0,2,3,8,pb,dez,2020,psico
+Psicólogos/as,Total,6,2,1,4,13,pb,jun,2020,psico
+Médicos/as - psiquiatras,Total,0,0,1,4,5,pb,jun,2020,psico
+Psicólogos/as,Total,20,1,7,39,67,pe,dez,2014,psico
+Médicos/as - psiquiatras,Total,8,0,0,4,12,pe,dez,2014,psico
+Psicólogos/as,Total,34,2,5,25,66,pe,jun,2014,psico
+Médicos/as - psiquiatras,Total,5,0,0,5,10,pe,jun,2014,psico
+Psicólogos/as,Total,7,0,0,53,60,pe,dez,2015,psico
+Médicos/as - psiquiatras,Total,7,0,0,6,13,pe,dez,2015,psico
+Psicólogos/as,Total,3,0,0,62,65,pe,dez,2016,psico
+Médicos/as - psiquiatras,Total,6,0,0,5,11,pe,dez,2016,psico
+Psicólogos/as,Total,7,0,0,54,61,pe,jun,2016,psico
+Médicos/as - psiquiatras,Total,7,0,0,6,13,pe,jun,2016,psico
+Psicólogos/as,Total,3,0,0,52,55,pe,dez,2017,psico
+Médicos/as - psiquiatras,Total,5,0,0,9,14,pe,dez,2017,psico
+Psicólogos/as,Total,6,0,0,50,56,pe,jun,2017,psico
+Médicos/as - psiquiatras,Total,5,0,0,8,13,pe,jun,2017,psico
+Psicólogos/as,Total,8,0,0,49,57,pe,dez,2018,psico
+Médicos/as - psiquiatras,Total,6,0,0,12,18,pe,dez,2018,psico
+Psicólogos/as,Total,8,0,0,47,55,pe,jun,2018,psico
+Médicos/as - psiquiatras,Total,6,0,0,7,13,pe,jun,2018,psico
+Psicólogos/as,Total,16,0,0,60,76,pe,dez,2019,psico
+Médicos/as - psiquiatras,Total,9,0,0,7,16,pe,dez,2019,psico
+Psicólogos/as,Total,10,0,0,51,61,pe,jun,2019,psico
+Médicos/as - psiquiatras,Total,7,0,0,8,15,pe,jun,2019,psico
+Psicólogos/as,Total,5,0,0,62,67,pe,dez,2020,psico
+Médicos/as - psiquiatras,Total,3,0,0,14,17,pe,dez,2020,psico
+Psicólogos/as,Total,5,0,0,64,69,pe,jun,2020,psico
+Médicos/as - psiquiatras,Total,1,0,0,14,15,pe,jun,2020,psico
+Psicólogos/as,Total,0,0,0,8,8,pi,dez,2014,psico
+Médicos/as - psiquiatras,Total,0,0,0,6,6,pi,dez,2014,psico
+Psicólogos/as,Total,2,1,3,1,7,pi,jun,2014,psico
+Médicos/as - psiquiatras,Total,6,0,0,1,7,pi,jun,2014,psico
+Psicólogos/as,Total,0,0,0,10,10,pi,dez,2015,psico
+Médicos/as - psiquiatras,Total,1,0,0,4,5,pi,dez,2015,psico
+Psicólogos/as,Total,0,0,0,8,8,pi,dez,2016,psico
+Médicos/as - psiquiatras,Total,1,0,0,2,3,pi,dez,2016,psico
+Psicólogos/as,Total,0,0,0,10,10,pi,jun,2016,psico
+Médicos/as - psiquiatras,Total,1,0,0,4,5,pi,jun,2016,psico
+Psicólogos/as,Total,1,4,5,5,15,pi,dez,2017,psico
+Médicos/as - psiquiatras,Total,1,1,2,1,5,pi,dez,2017,psico
+Psicólogos/as,Total,1,3,4,2,10,pi,jun,2017,psico
+Médicos/as - psiquiatras,Total,1,0,1,2,4,pi,jun,2017,psico
+Psicólogos/as,Total,1,3,3,7,14,pi,dez,2018,psico
+Médicos/as - psiquiatras,Total,1,0,1,3,5,pi,dez,2018,psico
+Psicólogos/as,Total,1,3,3,8,15,pi,jun,2018,psico
+Médicos/as - psiquiatras,Total,1,0,2,3,6,pi,jun,2018,psico
+Psicólogos/as,Total,1,2,6,6,15,pi,dez,2019,psico
+Médicos/as - psiquiatras,Total,0,0,2,4,6,pi,dez,2019,psico
+Psicólogos/as,Total,1,3,3,7,14,pi,jun,2019,psico
+Médicos/as - psiquiatras,Total,1,0,2,1,4,pi,jun,2019,psico
+Psicólogos/as,Total,0,2,12,4,18,pi,dez,2020,psico
+Médicos/as - psiquiatras,Total,1,0,6,3,10,pi,dez,2020,psico
+Psicólogos/as,Total,0,1,9,6,16,pi,jun,2020,psico
+Médicos/as - psiquiatras,Total,1,0,4,3,8,pi,jun,2020,psico
+Psicólogos/as,Total,24,0,1,0,25,pr,dez,2014,psico
+Médicos/as - psiquiatras,Total,13,0,0,0,13,pr,dez,2014,psico
+Psicólogos/as,Total,27,0,0,0,27,pr,jun,2014,psico
+Médicos/as - psiquiatras,Total,20,0,0,0,20,pr,jun,2014,psico
+Psicólogos/as,Total,44,0,0,1,45,pr,dez,2015,psico
+Médicos/as - psiquiatras,Total,12,0,0,0,12,pr,dez,2015,psico
+Psicólogos/as,Total,22,0,1,0,23,pr,dez,2016,psico
+Médicos/as - psiquiatras,Total,7,0,0,0,7,pr,dez,2016,psico
+Psicólogos/as,Total,44,0,0,1,45,pr,jun,2016,psico
+Médicos/as - psiquiatras,Total,12,0,0,0,12,pr,jun,2016,psico
+Psicólogos/as,Total,24,0,1,0,25,pr,dez,2017,psico
+Médicos/as - psiquiatras,Total,13,0,2,1,16,pr,dez,2017,psico
+Psicólogos/as,Total,23,0,1,0,24,pr,jun,2017,psico
+Médicos/as - psiquiatras,Total,15,0,1,0,16,pr,jun,2017,psico
+Psicólogos/as,Total,24,0,1,0,25,pr,dez,2018,psico
+Médicos/as - psiquiatras,Total,13,0,2,0,15,pr,dez,2018,psico
+Psicólogos/as,Total,24,0,0,0,24,pr,jun,2018,psico
+Médicos/as - psiquiatras,Total,13,0,2,0,15,pr,jun,2018,psico
+Psicólogos/as,Total,21,0,0,1,22,pr,dez,2019,psico
+Médicos/as - psiquiatras,Total,10,0,1,1,12,pr,dez,2019,psico
+Psicólogos/as,Total,22,0,1,0,23,pr,jun,2019,psico
+Médicos/as - psiquiatras,Total,10,0,2,0,12,pr,jun,2019,psico
+Psicólogos/as,Total,24,0,1,0,25,pr,dez,2020,psico
+Médicos/as - psiquiatras,Total,9,0,2,0,11,pr,dez,2020,psico
+Psicólogos/as,Total,24,0,2,0,26,pr,jun,2020,psico
+Médicos/as - psiquiatras,Total,9,0,1,0,10,pr,jun,2020,psico
+Psicólogos/as,Total,56,1,1,16,74,rj,dez,2014,psico
+Médicos/as - psiquiatras,Total,30,0,1,2,33,rj,dez,2014,psico
+Psicólogos/as,Total,0,0,0,0,0,rj,jun,2014,psico
+Médicos/as - psiquiatras,Total,0,0,0,0,0,rj,jun,2014,psico
+Psicólogos/as,Total,32,0,0,22,54,rj,dez,2015,psico
+Médicos/as - psiquiatras,Total,0,0,0,0,0,rj,dez,2015,psico
+Psicólogos/as,Total,47,1,2,8,58,rj,dez,2016,psico
+Médicos/as - psiquiatras,Total,12,0,0,0,12,rj,dez,2016,psico
+Psicólogos/as,Total,31,0,0,21,52,rj,jun,2016,psico
+Médicos/as - psiquiatras,Total,0,0,0,0,0,rj,jun,2016,psico
+Psicólogos/as,Total,38,0,2,10,50,rj,dez,2017,psico
+Médicos/as - psiquiatras,Total,15,0,0,1,16,rj,dez,2017,psico
+Psicólogos/as,Total,47,1,3,4,55,rj,jun,2017,psico
+Médicos/as - psiquiatras,Total,21,0,0,0,21,rj,jun,2017,psico
+Psicólogos/as,Total,36,0,1,0,37,rj,dez,2018,psico
+Médicos/as - psiquiatras,Total,13,0,0,0,13,rj,dez,2018,psico
+Psicólogos/as,Total,38,0,1,1,40,rj,jun,2018,psico
+Médicos/as - psiquiatras,Total,12,0,0,0,12,rj,jun,2018,psico
+Psicólogos/as,Total,27,0,2,0,29,rj,dez,2019,psico
+Médicos/as - psiquiatras,Total,14,0,0,0,14,rj,dez,2019,psico
+Psicólogos/as,Total,30,0,2,0,32,rj,jun,2019,psico
+Médicos/as - psiquiatras,Total,15,0,1,0,16,rj,jun,2019,psico
+Psicólogos/as,Total,16,0,8,2,26,rj,dez,2020,psico
+Médicos/as - psiquiatras,Total,12,0,6,0,18,rj,dez,2020,psico
+Psicólogos/as,Total,29,0,0,0,29,rj,jun,2020,psico
+Médicos/as - psiquiatras,Total,14,0,1,0,15,rj,jun,2020,psico
+Psicólogos/as,Total,1,0,0,1,2,rn,dez,2014,psico
+Médicos/as - psiquiatras,Total,1,0,1,0,2,rn,dez,2014,psico
+Psicólogos/as,Total,1,0,0,0,1,rn,jun,2014,psico
+Médicos/as - psiquiatras,Total,0,0,1,0,1,rn,jun,2014,psico
+Psicólogos/as,Total,3,0,1,0,4,rn,dez,2015,psico
+Médicos/as - psiquiatras,Total,3,0,0,0,3,rn,dez,2015,psico
+Psicólogos/as,Total,2,1,1,0,4,rn,dez,2016,psico
+Médicos/as - psiquiatras,Total,1,0,0,0,1,rn,dez,2016,psico
+Psicólogos/as,Total,3,0,1,0,4,rn,jun,2016,psico
+Médicos/as - psiquiatras,Total,3,0,0,0,3,rn,jun,2016,psico
+Psicólogos/as,Total,3,0,1,1,5,rn,dez,2017,psico
+Médicos/as - psiquiatras,Total,2,0,0,0,2,rn,dez,2017,psico
+Psicólogos/as,Total,3,0,0,1,4,rn,jun,2017,psico
+Médicos/as - psiquiatras,Total,2,0,0,0,2,rn,jun,2017,psico
+Psicólogos/as,Total,4,2,3,1,10,rn,dez,2018,psico
+Médicos/as - psiquiatras,Total,2,0,1,0,3,rn,dez,2018,psico
+Psicólogos/as,Total,3,1,1,2,7,rn,jun,2018,psico
+Médicos/as - psiquiatras,Total,1,0,0,0,1,rn,jun,2018,psico
+Psicólogos/as,Total,15,1,2,1,19,rn,dez,2019,psico
+Médicos/as - psiquiatras,Total,1,0,1,0,2,rn,dez,2019,psico
+Psicólogos/as,Total,5,1,3,2,11,rn,jun,2019,psico
+Médicos/as - psiquiatras,Total,2,0,0,1,3,rn,jun,2019,psico
+Psicólogos/as,Total,4,4,3,1,12,rn,dez,2020,psico
+Médicos/as - psiquiatras,Total,1,0,1,0,2,rn,dez,2020,psico
+Psicólogos/as,Total,6,2,2,2,12,rn,jun,2020,psico
+Médicos/as - psiquiatras,Total,1,0,1,0,2,rn,jun,2020,psico
+Psicólogos/as,Total,5,1,0,1,7,ro,dez,2014,psico
+Médicos/as - psiquiatras,Total,5,0,0,1,6,ro,dez,2014,psico
+Psicólogos/as,Total,3,0,1,0,4,ro,jun,2014,psico
+Médicos/as - psiquiatras,Total,6,0,0,1,7,ro,jun,2014,psico
+Psicólogos/as,Total,4,0,0,0,4,ro,dez,2015,psico
+Médicos/as - psiquiatras,Total,4,0,0,0,4,ro,dez,2015,psico
+Psicólogos/as,Total,5,0,0,0,5,ro,dez,2016,psico
+Médicos/as - psiquiatras,Total,0,0,0,1,1,ro,dez,2016,psico
+Psicólogos/as,Total,4,0,0,0,4,ro,jun,2016,psico
+Médicos/as - psiquiatras,Total,4,0,0,0,4,ro,jun,2016,psico
+Psicólogos/as,Total,6,0,1,1,8,ro,dez,2017,psico
+Médicos/as - psiquiatras,Total,0,0,0,0,0,ro,dez,2017,psico
+Psicólogos/as,Total,6,0,0,0,6,ro,jun,2017,psico
+Médicos/as - psiquiatras,Total,0,0,0,0,0,ro,jun,2017,psico
+Psicólogos/as,Total,8,0,0,2,10,ro,dez,2018,psico
+Médicos/as - psiquiatras,Total,0,0,0,0,0,ro,dez,2018,psico
+Psicólogos/as,Total,7,0,0,1,8,ro,dez,2019,psico
+Médicos/as - psiquiatras,Total,0,0,0,0,0,ro,dez,2019,psico
+Psicólogos/as,Total,6,0,0,4,10,ro,jun,2019,psico
+Médicos/as - psiquiatras,Total,0,0,0,0,0,ro,jun,2019,psico
+Psicólogos/as,Total,7,0,1,8,16,ro,dez,2020,psico
+Médicos/as - psiquiatras,Total,0,0,0,0,0,ro,dez,2020,psico
+Psicólogos/as,Total,7,0,0,0,7,ro,jun,2020,psico
+Médicos/as - psiquiatras,Total,0,0,0,0,0,ro,jun,2020,psico
+Psicólogos/as,Total,2,1,0,0,3,rr,dez,2014,psico
+Médicos/as - psiquiatras,Total,1,0,0,0,1,rr,dez,2014,psico
+Psicólogos/as,Total,1,0,1,0,2,rr,jun,2014,psico
+Médicos/as - psiquiatras,Total,0,0,0,0,0,rr,jun,2014,psico
+Psicólogos/as,Total,2,0,0,0,2,rr,dez,2015,psico
+Médicos/as - psiquiatras,Total,2,0,0,0,2,rr,dez,2015,psico
+Psicólogos/as,Total,0,0,0,0,0,rr,dez,2016,psico
+Médicos/as - psiquiatras,Total,0,0,0,0,0,rr,dez,2016,psico
+Psicólogos/as,Total,2,0,0,0,2,rr,jun,2016,psico
+Médicos/as - psiquiatras,Total,2,0,0,0,2,rr,jun,2016,psico
+Psicólogos/as,Total,1,0,0,0,1,rr,dez,2017,psico
+Médicos/as - psiquiatras,Total,1,0,0,0,1,rr,dez,2017,psico
+Psicólogos/as,Total,0,0,0,0,0,rr,jun,2017,psico
+Médicos/as - psiquiatras,Total,1,0,0,0,1,rr,jun,2017,psico
+Psicólogos/as,Total,0,0,0,0,0,rr,dez,2018,psico
+Médicos/as - psiquiatras,Total,0,0,0,0,0,rr,dez,2018,psico
+Psicólogos/as,Total,1,0,0,0,1,rr,jun,2018,psico
+Médicos/as - psiquiatras,Total,1,0,0,0,1,rr,jun,2018,psico
+Psicólogos/as,Total,1,1,0,0,2,rr,dez,2019,psico
+Médicos/as - psiquiatras,Total,1,0,0,0,1,rr,dez,2019,psico
+Psicólogos/as,Total,1,0,0,0,1,rr,jun,2019,psico
+Médicos/as - psiquiatras,Total,1,0,0,0,1,rr,jun,2019,psico
+Psicólogos/as,Total,2,1,0,0,3,rr,dez,2020,psico
+Médicos/as - psiquiatras,Total,3,2,0,0,5,rr,dez,2020,psico
+Psicólogos/as,Total,2,1,0,3,6,rr,jun,2020,psico
+Médicos/as - psiquiatras,Total,1,0,0,0,1,rr,jun,2020,psico
+Psicólogos/as,Total,127,0,1,0,128,rs,dez,2014,psico
+Médicos/as - psiquiatras,Total,13,1,6,0,20,rs,dez,2014,psico
+Psicólogos/as,Total,110,4,5,4,123,rs,jun,2014,psico
+Médicos/as - psiquiatras,Total,16,0,3,1,20,rs,jun,2014,psico
+Psicólogos/as,Total,148,0,0,1,149,rs,dez,2015,psico
+Médicos/as - psiquiatras,Total,15,0,3,2,20,rs,dez,2015,psico
+Psicólogos/as,Total,136,0,2,0,138,rs,dez,2016,psico
+Médicos/as - psiquiatras,Total,10,0,4,1,15,rs,dez,2016,psico
+Psicólogos/as,Total,148,0,0,1,149,rs,jun,2016,psico
+Médicos/as - psiquiatras,Total,15,0,3,2,20,rs,jun,2016,psico
+Psicólogos/as,Total,127,0,8,1,136,rs,dez,2017,psico
+Médicos/as - psiquiatras,Total,11,0,10,1,22,rs,dez,2017,psico
+Psicólogos/as,Total,140,0,1,0,141,rs,jun,2017,psico
+Médicos/as - psiquiatras,Total,16,0,4,0,20,rs,jun,2017,psico
+Psicólogos/as,Total,142,0,1,0,143,rs,dez,2018,psico
+Médicos/as - psiquiatras,Total,10,0,5,3,18,rs,dez,2018,psico
+Psicólogos/as,Total,139,0,1,0,140,rs,jun,2018,psico
+Médicos/as - psiquiatras,Total,11,0,5,3,19,rs,jun,2018,psico
+Psicólogos/as,Total,141,0,1,0,142,rs,dez,2019,psico
+Médicos/as - psiquiatras,Total,14,0,3,2,19,rs,dez,2019,psico
+Psicólogos/as,Total,135,1,1,0,137,rs,jun,2019,psico
+Médicos/as - psiquiatras,Total,14,0,1,3,18,rs,jun,2019,psico
+Psicólogos/as,Total,136,0,2,0,138,rs,dez,2020,psico
+Médicos/as - psiquiatras,Total,14,0,6,0,20,rs,dez,2020,psico
+Psicólogos/as,Total,131,0,2,0,133,rs,jun,2020,psico
+Médicos/as - psiquiatras,Total,13,0,4,1,18,rs,jun,2020,psico
+Psicólogos/as,Total,16,0,11,2,29,sc,dez,2014,psico
+Médicos/as - psiquiatras,Total,7,0,6,6,19,sc,dez,2014,psico
+Psicólogos/as,Total,16,0,11,1,28,sc,jun,2014,psico
+Médicos/as - psiquiatras,Total,7,0,3,4,14,sc,jun,2014,psico
+Psicólogos/as,Total,21,1,7,4,33,sc,dez,2015,psico
+Médicos/as - psiquiatras,Total,7,0,3,4,14,sc,dez,2015,psico
+Psicólogos/as,Total,16,0,7,17,40,sc,dez,2016,psico
+Médicos/as - psiquiatras,Total,7,0,4,8,19,sc,dez,2016,psico
+Psicólogos/as,Total,21,1,7,4,33,sc,jun,2016,psico
+Médicos/as - psiquiatras,Total,7,0,3,4,14,sc,jun,2016,psico
+Psicólogos/as,Total,16,0,9,22,47,sc,dez,2017,psico
+Médicos/as - psiquiatras,Total,6,0,4,8,18,sc,dez,2017,psico
+Psicólogos/as,Total,18,0,9,22,49,sc,jun,2017,psico
+Médicos/as - psiquiatras,Total,7,0,6,7,20,sc,jun,2017,psico
+Psicólogos/as,Total,15,1,8,23,47,sc,dez,2018,psico
+Médicos/as - psiquiatras,Total,7,0,4,8,19,sc,dez,2018,psico
+Psicólogos/as,Total,20,1,10,16,47,sc,jun,2018,psico
+Médicos/as - psiquiatras,Total,7,0,5,6,18,sc,jun,2018,psico
+Psicólogos/as,Total,16,1,10,22,49,sc,dez,2019,psico
+Médicos/as - psiquiatras,Total,4,0,5,7,16,sc,dez,2019,psico
+Psicólogos/as,Total,15,1,8,21,45,sc,jun,2019,psico
+Médicos/as - psiquiatras,Total,5,0,4,8,17,sc,jun,2019,psico
+Psicólogos/as,Total,15,0,10,19,44,sc,dez,2020,psico
+Médicos/as - psiquiatras,Total,4,0,5,6,15,sc,dez,2020,psico
+Psicólogos/as,Total,12,1,10,21,44,sc,jun,2020,psico
+Médicos/as - psiquiatras,Total,3,0,5,7,15,sc,jun,2020,psico
+Psicólogos/as,Total,3,0,2,0,5,se,dez,2014,psico
+Médicos/as - psiquiatras,Total,2,0,1,0,3,se,dez,2014,psico
+Psicólogos/as,Total,2,1,2,0,5,se,jun,2014,psico
+Médicos/as - psiquiatras,Total,0,0,1,0,1,se,jun,2014,psico
+Psicólogos/as,Total,1,0,2,0,3,se,dez,2015,psico
+Médicos/as - psiquiatras,Total,2,0,1,0,3,se,dez,2015,psico
+Psicólogos/as,Total,2,0,4,0,6,se,dez,2016,psico
+Médicos/as - psiquiatras,Total,2,0,2,0,4,se,dez,2016,psico
+Psicólogos/as,Total,1,0,2,0,3,se,jun,2016,psico
+Médicos/as - psiquiatras,Total,2,0,1,0,3,se,jun,2016,psico
+Psicólogos/as,Total,2,1,5,0,8,se,dez,2017,psico
+Médicos/as - psiquiatras,Total,2,0,3,0,5,se,dez,2017,psico
+Psicólogos/as,Total,1,1,5,1,8,se,jun,2017,psico
+Médicos/as - psiquiatras,Total,2,0,3,0,5,se,jun,2017,psico
+Psicólogos/as,Total,2,1,6,0,9,se,dez,2018,psico
+Médicos/as - psiquiatras,Total,2,0,3,0,5,se,dez,2018,psico
+Psicólogos/as,Total,2,1,6,0,9,se,jun,2018,psico
+Médicos/as - psiquiatras,Total,2,0,3,0,5,se,jun,2018,psico
+Psicólogos/as,Total,2,1,6,0,9,se,dez,2019,psico
+Médicos/as - psiquiatras,Total,1,0,3,0,4,se,dez,2019,psico
+Psicólogos/as,Total,2,1,6,0,9,se,jun,2019,psico
+Médicos/as - psiquiatras,Total,2,0,3,0,5,se,jun,2019,psico
+Psicólogos/as,Total,2,1,7,1,11,se,dez,2020,psico
+Médicos/as - psiquiatras,Total,2,0,4,0,6,se,dez,2020,psico
+Psicólogos/as,Total,3,1,4,3,11,se,jun,2020,psico
+Médicos/as - psiquiatras,Total,3,0,3,0,6,se,jun,2020,psico
+Psicólogos/as,Total,314,2,4,2,322,sp,dez,2014,psico
+Médicos/as - psiquiatras,Total,36,0,1,7,44,sp,dez,2014,psico
+Psicólogos/as,Total,NI,NI,NI,NI,NI,sp,jun,2014,psico
+Médicos/as - psiquiatras,Total,NI,NI,NI,NI,NI,sp,jun,2014,psico
+Psicólogos/as,Total,313,4,0,3,320,sp,dez,2015,psico
+Médicos/as - psiquiatras,Total,31,0,3,1,35,sp,dez,2015,psico
+Psicólogos/as,Total,295,0,0,1,296,sp,dez,2016,psico
+Médicos/as - psiquiatras,Total,36,0,3,2,41,sp,dez,2016,psico
+Psicólogos/as,Total,313,4,0,3,320,sp,jun,2016,psico
+Médicos/as - psiquiatras,Total,31,0,3,1,35,sp,jun,2016,psico
+Psicólogos/as,Total,277,0,0,1,278,sp,dez,2017,psico
+Médicos/as - psiquiatras,Total,30,0,4,0,34,sp,dez,2017,psico
+Psicólogos/as,Total,288,1,1,0,290,sp,jun,2017,psico
+Médicos/as - psiquiatras,Total,31,0,3,1,35,sp,jun,2017,psico
+Psicólogos/as,Total,273,0,0,1,274,sp,dez,2018,psico
+Médicos/as - psiquiatras,Total,25,0,6,0,31,sp,dez,2018,psico
+Psicólogos/as,Total,277,0,0,1,278,sp,jun,2018,psico
+Médicos/as - psiquiatras,Total,25,0,6,0,31,sp,jun,2018,psico
+Psicólogos/as,Total,244,0,0,1,245,sp,dez,2019,psico
+Médicos/as - psiquiatras,Total,22,0,2,0,24,sp,dez,2019,psico
+Psicólogos/as,Total,257,0,0,1,258,sp,jun,2019,psico
+Médicos/as - psiquiatras,Total,19,0,5,1,25,sp,jun,2019,psico
+Psicólogos/as,Total,222,0,1,0,223,sp,dez,2020,psico
+Médicos/as - psiquiatras,Total,20,0,3,0,23,sp,dez,2020,psico
+Psicólogos/as,Total,236,0,0,0,236,sp,jun,2020,psico
+Médicos/as - psiquiatras,Total,21,0,2,0,23,sp,jun,2020,psico
+Psicólogos/as,Total,2,0,2,1,5,to,dez,2014,psico
+Médicos/as - psiquiatras,Total,1,0,0,0,1,to,dez,2014,psico
+Psicólogos/as,Total,2,1,4,0,7,to,jun,2014,psico
+Médicos/as - psiquiatras,Total,0,0,1,0,1,to,jun,2014,psico
+Psicólogos/as,Total,2,2,3,2,9,to,dez,2015,psico
+Médicos/as - psiquiatras,Total,0,1,0,0,1,to,dez,2015,psico
+Psicólogos/as,Total,1,0,3,1,5,to,dez,2016,psico
+Médicos/as - psiquiatras,Total,0,0,0,0,0,to,dez,2016,psico
+Psicólogos/as,Total,3,1,3,2,9,to,jun,2016,psico
+Médicos/as - psiquiatras,Total,0,0,0,0,0,to,jun,2016,psico
+Psicólogos/as,Total,5,2,1,0,8,to,dez,2017,psico
+Médicos/as - psiquiatras,Total,0,0,1,0,1,to,dez,2017,psico
+Psicólogos/as,Total,6,0,0,1,7,to,jun,2017,psico
+Médicos/as - psiquiatras,Total,0,0,0,0,0,to,jun,2017,psico
+Psicólogos/as,Total,4,0,0,2,6,to,dez,2018,psico
+Médicos/as - psiquiatras,Total,0,0,2,0,2,to,dez,2018,psico
+Psicólogos/as,Total,6,2,0,0,8,to,jun,2018,psico
+Médicos/as - psiquiatras,Total,0,0,1,0,1,to,jun,2018,psico
+Psicólogos/as,Total,5,0,0,2,7,to,dez,2019,psico
+Médicos/as - psiquiatras,Total,0,0,2,0,2,to,dez,2019,psico
+Psicólogos/as,Total,4,0,0,1,5,to,jun,2019,psico
+Médicos/as - psiquiatras,Total,0,0,2,0,2,to,jun,2019,psico
+Psicólogos/as,Total,3,0,0,3,6,to,dez,2020,psico
+Médicos/as - psiquiatras,Total,0,0,2,1,3,to,dez,2020,psico
+Psicólogos/as,Total,6,0,0,1,7,to,jun,2020,psico
+Médicos/as - psiquiatras,Total,0,0,2,0,2,to,jun,2020,psico
